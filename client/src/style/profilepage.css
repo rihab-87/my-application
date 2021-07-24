@@ -1,0 +1,44 @@
+.field_style{
+display:flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+
+}
+.edit_style{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    }
+
+.row_style{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.title_profile{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+  
+}
+.row{
+    align-items: center;
+}
+.cont_prof{
+    background-color: #f8f9fa;
+    border-radius: 10px;
+   height:auto;
+    box-shadow: 0px 1px 10px 1px;
+    margin-bottom: 30px;
+width: 550px;
+
+}
+.info_style{
+    margin-bottom: 10px;
+}

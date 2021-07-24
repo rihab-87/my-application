@@ -1,0 +1,150 @@
+/* body{
+    background:linear-gradient(to left, green, white);
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color:white;
+  }
+  
+  .container{
+    display:flex;
+      align-items:center;
+      justify-content:center;
+      height:100vh;
+      width:100%;
+  }
+    .form-box{
+        width:380px;
+        height:450px;
+        background-color:black;
+        padding:20px;
+        display:flex;
+        flex-direction:column;
+        justify-content:flex-start;
+        opacity:0.5;
+        border-radius:2%;
+    }
+  .header-form{
+    margin-bottom:15px;
+  }
+  button{
+    margin-top:40px;
+    margin-bottom:10px;
+  }
+  .message{
+    display:flex;
+    justify-content:space-between
+  }
+  .social{
+    display:flex;
+    justify-content:space-around;
+    padding:30px;
+  }
+  
+  .social i{
+    font-size:35px;
+  }
+  
+  .social i:hover{
+    color:red;
+    cursor:pointer;
+  }
+  
+  
+   */
+   html, body{
+    margin: auto;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    /* color: #1f4568; */
+   }
+  
+  body{
+  background-image: url("../icons/back2.png");
+     background-size:cover; 
+    background-repeat:no-repeat;
+  }
+
+.log_bloc{
+
+  text-shadow:  5px 5px 10px #8b8d91;
+ 
+     border-radius: 10px;
+     background-color:transparent; 
+    /* box-shadow: 0px 1px 10px 1px; */
+    box-shadow: 0 25px 75px rgb(16 30 54 / 25%);
+  z-index: 1;
+  }
+
+   .form_style_login{
+
+    width: 480px!important;
+    height:398px !important;
+    background: #fff;
+    box-shadow: 0 25px 75px rgb(16 30 54 / 25%);
+    border-radius: 6px;
+    padding: 30px 60px 26px;
+    margin-top: 75px;
+    position: relative;
+    overflow: hidden;
+    /* margin-left: ; */
+  
+   }
+
+   .titl_style{
+
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 46px;
+    font-family: Gotham Pro,Proxima Nova,arial,serif;
+    color: #292d34;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   .button_style{
+    transition: background-color .2s cubic-bezier(.785,.135,.15,.86) 0s;
+    height: 50px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 4px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-color: #d1be40!important;
+    border-color: #d1be40!important;
+
+   }
+   .button_style:hover{
+    background-color:#ece371!important;
+    border-color: #d1be40;
+
+   }
+.input_img_style{
+  font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    font-family: Gotham Pro,Proxima Nova,arial,serif;
+    width: 10px;
+    border: 1px solid #e9ebf0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 7px 28px 8px 10px;
+    color: #292d34;
+}
+.groupe_style{
+  width: 100%;
+  position: relative;
+  margin-bottom: 25px;
+}
+.icon_style{
+ display:flex;
+ justify-content: center;
+
+}
+.cont_style{
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}

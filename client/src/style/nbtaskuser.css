@@ -1,0 +1,12 @@
+.taskus_style{
+    margin:0px;
+    /* background-color: #c8f513e6; */
+ 
+
+}
+.taskus_style:hover{
+    text-decoration: underline;
+    color:#d1be40;
+    transform:scale(1.10);
+    font-weight: 700;
+}

@@ -1,0 +1,64 @@
+/* .table-hover tbody tr   :hover {
+    color: yellow !important;
+    background-color:#00c87536;
+} */
+/* thead{
+    background-color:#00c875 !important;
+} */
+/* tbody{
+    background-color:#4dd99fb8 !important;
+} */
+
+.table-light tbody tr td {
+    
+    background-color:#f8f9fa;
+} 
+td{
+    background-color:#f8f9fa; 
+}
+
+
+.headtask tr th{
+    background-color:#2387eeb3  !important; 
+    text-align: center;
+}
+.class_icon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text_center tr td{
+    text-align: center;
+    align-items: center;
+}
+
+/* .table thead th tbody tr td{
+    font-family:  'Roboto Mono', monospace;
+} */
+/* thead th tr td {
+    font-family:  'Roboto Mono', monospace;
+} */
+
+ td{
+
+text-align: center;
+
+}
+.taskdone_style{
+    margin:0px;
+    background-color: #baefaad4;
+ 
+
+}
+.taskdone_style:hover{
+    text-decoration: underline;
+    color:#3bb54a;
+    transform:scale(1.10);
+    font-weight: 700;
+}
+
+.tab-shadow{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 1px 10px 1px;
+}

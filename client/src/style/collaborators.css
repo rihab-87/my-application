@@ -1,0 +1,13 @@
+.btn-group{
+      font-family:  'Roboto',  sans-serif ;
+      font-size:18px;
+       font-weight:bold;
+       text-align:center;
+}
+#btn_style{
+    font-family:  'Roboto',  sans-serif ;
+    font-size:16px;
+     font-weight:bold;
+     text-align:center;
+     /* width:100px */
+}
